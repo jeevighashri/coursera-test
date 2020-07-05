@@ -1,0 +1,32 @@
+
+#header-nav{
+	background-color: lightpink;
+	border-radius: 0;
+ 
+}
+
+body {
+	background-color:lightyellow;
+   
+}
+
+#chicken {
+	padding: 1% 1% 1% 1%;
+	background-color: lightgray;
+	border:solid 1px black;
+	margin:1%;
+}
+#beef {
+	padding: 1% 1% 1% 1%;
+ 	background-color: lightgray;
+ 	border:solid 1px black;
+ 	margin:1%;
+	}
+
+#sushi {
+	padding: 1% 1% 1% 1%;
+ background-color: lightgray;
+border:solid 1px black;
+margin:1%;
+}
+
